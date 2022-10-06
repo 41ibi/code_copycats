@@ -50,8 +50,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   }
 
   // Create pages
-  result.data.allFile.nodes.map(node => {
-    
+  for (const node of result.data.allFile.nodes) {
     const path = node.name === 'home' ? '/' : node.name 
     const component = node.name === 'edition' ? edComponent : pageComponent
 
@@ -80,7 +79,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
         rawContent,
       }
     })
-  })
+  }
 
   const teiComponent = require.resolve(`./src/gatsby-theme-ceteicean/components/Ceteicean.jsx`)
 
