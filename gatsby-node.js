@@ -1,19 +1,19 @@
 const { createContentDigest } = require("gatsby-core-utils")
 const {pathPrefix} = require("./gatsby-config")
-
+​
 isProduction = process.env.NODE_ENV == "production"
-
+​
 exports.onCreateNode = async ({
   node, loadNodeContent, createNodeId, actions
 }) => {
-
+​
   // only care about html files
   if (node.internal.type !== 'File' || node.internal.mediaType !== 'text/html') return
   
   const { createNode } = actions;
-
+​
   const nodeContent = await loadNodeContent(node)
-
+​
   const htmlNodeContent = {
     id: createNodeId(node.relativePath),
     content: nodeContent,
@@ -23,15 +23,15 @@ exports.onCreateNode = async ({
       contentDigest: createContentDigest(nodeContent),
     },
   }
-
+​
   createNode(htmlNodeContent)
 }
-
+​
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
   const pageComponent = require.resolve(`./src/components/page.jsx`)
   const edComponent = require.resolve(`./src/components/edition.jsx`)
-
+​
   const result = await graphql(`
     query {
       allFile(filter: {extension: {eq: "html"}}) {
@@ -48,16 +48,16 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     reporter.panicOnBuild(`Error while running GraphQL query.`)
     return
   }
-
+​
   // Create pages
   for (const node of result.data.allFile.nodes) {
     const path = node.name === 'home' ? '/' : node.name 
     const component = node.name === 'edition' ? edComponent : pageComponent
-
+​
     // Fix paths with regex (this is pretty unsafe, but will do for this pedagogical example)
     const rawPage = node.internal.content
     let rawContent = rawPage
-
+​
     if (rawContent) {
       // src attributes
       rawContent = rawContent.replace(/src="(?!https?:\/\/)([^"]+)"/g, `src="${isProduction ? pathPrefix : ''}/$1"`)
@@ -70,7 +70,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     } else {
       rawContent = "The HTML data failed to load on build. Try to clear the cache (e.g. with `npm run clean`) and try again."
     }
-
+​
     createPage({
       path,
       component,
@@ -80,9 +80,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       }
     })
   }
-
+​
   const teiComponent = require.resolve(`./src/gatsby-theme-ceteicean/components/Ceteicean.jsx`)
-
+​
   const teiResult = await graphql(`
     query {
       allCetei {
@@ -103,7 +103,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     reporter.panicOnBuild(`Error while running GraphQL query.`)
     return
   }
-
+​
   for (const node of teiResult.data.allCetei.nodes) {
     const name = node.parent.name
     createPage({
