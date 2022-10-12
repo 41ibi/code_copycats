@@ -1,4 +1,4 @@
-const basePath = '/minimaldigipub2022-template'
+const basePath = 'https://41ibi.github.io/code_copycats'
 
 module.exports = {
   pathPrefix: basePath,
