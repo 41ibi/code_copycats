@@ -1,4 +1,4 @@
-const basePath = 'https://41ibi.github.io/code_copycats'
+const basePath = '/code_copycats'
 
 module.exports = {
   pathPrefix: basePath,
