@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: `An Account of a Voyage up the River de la Plata (tei)`,
     description: `This is Team Code Copycats' project',
-    author: 'Alice Carlos Julieta Nery',
+    author: 'Alice Carlos Julieta Nery'
   },
   plugins: [
     `gatsby-plugin-material-ui`,
