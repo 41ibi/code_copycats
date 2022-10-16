@@ -3,9 +3,9 @@ const basePath = '/code_copycats'
 module.exports = {
   pathPrefix: basePath,
   siteMetadata: {
-    title: `Digital Publishing with Minimal Computing Project`,
-    description: `A template`,
-    author: `Course teachers`
+    title: `An Account of a Voyage up the River de la Plata (tei)`,
+    description: `This is Team Code Copycats' project'
+    author: `Alice, Carlos, Julieta, Nery`
   },
   plugins: [
     `gatsby-plugin-material-ui`,
