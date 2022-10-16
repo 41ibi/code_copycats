@@ -1,3 +1,4 @@
+import "../style.css"
 import * as React from 'react';
 import { useStaticQuery, graphql, navigate } from "gatsby"
 import { styled } from '@mui/material/styles';
