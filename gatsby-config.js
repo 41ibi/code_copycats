@@ -4,8 +4,8 @@ module.exports = {
   pathPrefix: basePath,
   siteMetadata: {
     title: `An Account of a Voyage up the River de la Plata (tei)`,
-    description: `This is Team Code Copycats' project',
-    author: 'Alice Carlos Julieta Nery'
+    description: `This is a project by Team Code Copycats`,
+    author: `Alice Carlos Julieta Nery`
   },
   plugins: [
     `gatsby-plugin-material-ui`,
