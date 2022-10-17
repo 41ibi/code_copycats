@@ -3,3 +3,12 @@ h1 {
     font-family: 'Times New Roman', Times, serif, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: larger;
 }
+
+/* "home.html" styles */
+.home_title, .home_nav {
+    font-family: 'Verdana', sans-serif;
+    text-align: center;
+}
+
+.t1 {font-size: 26px;}
+.t2 {font-size: 18px;}
