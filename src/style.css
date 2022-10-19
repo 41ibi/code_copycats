@@ -171,6 +171,8 @@ body footer {
 .card-container {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .card {
@@ -180,9 +182,7 @@ body footer {
     text-align: center;
     background-color: rgb(55, 3, 107);
     color: rgb(255, 255, 255);
-    flex: 1;
-    flex-shrink: 1;
-    flex-basis: 0;
+    flex: 0 1 24%;
 }
 
 .title-card {
