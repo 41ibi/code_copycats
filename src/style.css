@@ -155,8 +155,8 @@ a:active {
 footer {
     text-align: center;
     background-color: rgb(129, 120, 146);
-    font-size: x-small;
-    color: rgb(63, 62, 65);
+    font-size: small;
+    color: rgb(194, 191, 201);
     height: 2.5rem;
 }
 
@@ -180,7 +180,7 @@ body footer {
     max-width: 300px;
     margin: auto;
     text-align: center;
-    background-color: rgb(55, 3, 107);
+    background-color: #A46BF5;
     color: rgb(255, 255, 255);
     flex: 0 1 24%;
 }
@@ -196,7 +196,7 @@ body footer {
     display: inline-block;
     padding: 8px;
     background-color: rgb(255, 255, 255);
-    color: #A46BF5;
+    color: #6734ae;
     text-align: center;
     cursor: pointer;
     width: 100%;
