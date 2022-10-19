@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+     <fileDesc>
+        <titleStmt>
+           <title>A title</title>
+        </titleStmt>
+        <publicationStmt>
+           <p/>
+        </publicationStmt>
+        <sourceDesc>
+           <p/>
+        </sourceDesc>
+     </fileDesc>
+ </teiHeader>
+ <text>
+   <body>
+   <pb/>
+   <head>Example</head>
+     <div>
+          <p>
+               
+Monſieur Acarete du Biscay's Journey from Buenos Ayres to Peru. 
+I Left Buenos Ayres, and took the Road I to Cordoua, leaving Santa Fe on my right hand, of which place take this account, 'tis a Spaniſh Settlement dependant upon Buenos Ayres, the Commander is no more than a Lieutenant, and does nothing but by order from the Governor of Buenos Ayres. 'Tis a little place containing 25 Houſes, without any Walls, Fortifications, or Garriſon, diſtant 80 Leagues from Buenos Ayres Northward, Situate upon the River de la Plata, large Veſſels might come up to it, were it not for a great bank that obstructs the passage a little above Buenos Ayres. Nevertheleſs 'tis a very advantageous Poſt, because 'tis the only passage from Peru, Chili and Tucuman to Paraguay, and in a manner the Magazine of the Commodities drawn from thence, particularly that Herb already ſpoken of, which they cannot be without in thoſe Provinces. The Soil is as good and Fertile here as at Buenos Ayres; and the Town having nothing remarkably different from what has been observ'd of Buenos Ayres, I leave it, and proceed upon my Journey. 'Tis counted 140 Leagues from Buenos Ayres to Cordoua, and becauſe ſome parts of the Road are uninhabited for a long way together; I ſurnished my ſelf at my departure with what I was inform'd I ſhould ſtand in need of; ſo I ſet out having a Savage for my Guide, with Three Horſes and Three Mules, ſome to carry my Baggage, and the reſt to change upon the way when that I rid upon was tired. 
+
+
+
+          </p>
+     </div>
+     </body>
+ </text>
+</TEI>
