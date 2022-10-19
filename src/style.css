@@ -31,3 +31,7 @@ a:visited,
 a:active {
     text-decoration: none;
 }
+
+.container {
+    max-height: 70vh;
+}
