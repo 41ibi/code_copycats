@@ -118,6 +118,7 @@ body footer {
     text-align: center;
     background-color: rgb(55, 3, 107);
     color: rgb(255, 255, 255);
+    flex: 1;
 }
 
 .title-card {
