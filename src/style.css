@@ -189,6 +189,7 @@ body footer {
     background-color: #ffffff;
     color: rgb(3, 3, 3);
     font-size: 25px;
+    flex: 0 1 24%;
 }
 
 .button-card {
