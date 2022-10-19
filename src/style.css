@@ -119,6 +119,8 @@ body footer {
     background-color: rgb(55, 3, 107);
     color: rgb(255, 255, 255);
     flex: 1;
+    flex-shrink: 1;
+    flex-basis: 0;
 }
 
 .title-card {
