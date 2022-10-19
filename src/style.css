@@ -34,15 +34,6 @@ a:active {
 
 .container {
     width: 75%;
-    position: relative;
-    min-height: 100vh;
-    top: 50%;
-    left: 50%;
-}
-
-#content-wrap {
-    padding-bottom: 2.5rem;
-    /* Footer height */
 }
 
 .button-36 {
