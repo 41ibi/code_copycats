@@ -77,6 +77,8 @@ footer {
 
 footer p {
     padding: 5px;
+    position: absolute;
+    bottom: 0;
 }
 
 body footer {
