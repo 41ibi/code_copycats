@@ -75,3 +75,7 @@ footer {
     font-size: smaller;
     color: antiquewhite;
 }
+
+footer p {
+    padding: 5px;
+}
