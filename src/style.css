@@ -68,3 +68,10 @@ a:active {
         padding: 0 2.6rem;
     }
 }
+
+footer {
+    text-align: center;
+    background-color: black;
+    font-size: smaller;
+    color: antiquewhite;
+}
