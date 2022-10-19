@@ -9,6 +9,17 @@ h1 {
     width: 100%;
 }
 
+.foto-rounded-circle {
+    background-image: url('https://prebi.unlp.edu.ar/wp-content/uploads/sites/31/2020/07/WhatsApp-Image-2020-07-06-at-09.43.33-e1594039767733.jpeg');/*this is the path, if it doesnt work, just got to check the path|*/
+    height: 170px; /* size */
+    width: 170px;/* size */
+    background-position: center center; /* position */ 
+    background-repeat: no-repeat; /* to not repeat the image if it doesnt fit*/
+    background-size: cover; /* adapt the image to the div */
+    border-radius: 50%; /* rounded borders */
+    border: 4px #27a9e1 solid; /* color, we should change it to some orange or red... */
+    } 
+
 
 /* "home.html" styles */
 
