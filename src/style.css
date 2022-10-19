@@ -155,7 +155,7 @@ a:active {
 footer {
     text-align: center;
     background-color: rgb(129, 120, 146);
-    font-size: smaller;
+    font-size: x-small;
     color: rgb(63, 62, 65);
     height: 2.5rem;
 }
