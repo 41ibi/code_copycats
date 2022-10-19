@@ -107,7 +107,7 @@ body footer {
 }
 
 .card-container {
-    flex-wrap: wrap;
+    display: flex;
 }
 
 .card {
