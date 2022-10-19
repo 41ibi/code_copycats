@@ -88,8 +88,8 @@ a:active {
     text-decoration: none;
     text-transform: uppercase;
     transition: box-shadow 280ms cubic-bezier(.4, 0, .2, 1);
-    user-select: none;
     -webkit-user-select: none;
+    user-select: none;
     touch-action: manipulation;
     vertical-align: middle;
     will-change: transform, opacity;
@@ -136,8 +136,8 @@ a:active {
     text-align: center;
     text-shadow: rgba(0, 0, 0, 0.25) 0 3px 8px;
     transition: all .5s;
-    user-select: none;
     -webkit-user-select: none;
+    user-select: none;
     touch-action: manipulation;
 }
 
@@ -186,8 +186,8 @@ body footer {
 }
 
 .card {
-    background-color: #645678;
-    color: rgb(255, 255, 255);
+    background-color: #ffffff;
+    color: rgb(3, 3, 3);
     font-size: 25px;
 }
 
