@@ -1,17 +1,27 @@
 /* Add your styles here! */
-h1 { 
+
+h1 {
     font-family: 'Times New Roman', Times, serif, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: larger;
 }
-.css-1ljz3d3{
-    width: 100%;
+
+.css-1ljz3d3 {
+    width: 70%;
 }
 
+
 /* "home.html" styles */
-.home_title, .home_nav {
+
+.home_title,
+.home_nav {
     font-family: 'Verdana', sans-serif;
     text-align: center;
 }
 
-.t1 {font-size: 26px;}
-.t2 {font-size: 18px;}
+.t1 {
+    font-size: 26px;
+}
+
+.t2 {
+    font-size: 18px;
+}
