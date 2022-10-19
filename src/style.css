@@ -34,6 +34,13 @@ a:active {
 
 .container {
     width: 75%;
+    position: relative;
+    min-height: 100vh;
+}
+
+#content-wrap {
+    padding-bottom: 2.5rem;
+    /* Footer height */
 }
 
 .button-36 {
@@ -73,10 +80,12 @@ footer {
     background-color: rgb(201, 179, 239);
     font-size: smaller;
     color: rgb(63, 62, 65);
+    height: 2.5rem;
 }
 
 footer p {
     padding: 30px, 0px, 0px, 0px;
+    position: absolute;
     bottom: 0;
 }
 
