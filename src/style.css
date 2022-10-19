@@ -108,6 +108,7 @@ body footer {
 
 .card-container {
     display: flex;
+    align-items: center;
 }
 
 .card {
