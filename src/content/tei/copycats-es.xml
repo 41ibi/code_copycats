@@ -26,9 +26,10 @@
  <text>
    <body>
    <pb/>
-   <head>Viaje de Monsíenr Acárete du Biscay desde Buenos Aires hasta el Perú
-
-Salí de Buenos Aires y tomé el camino de Córdoba, dejando á Santa Fe á mí derecha, de cuyo lugar, hé aquí una relación:
+   <head>Viaje de Monsíenr Acárete du Biscay desde Buenos Aires hasta el Perú</head>
+     <div>
+          <p>
+               Salí de Buenos Aires y tomé el camino de Córdoba, dejando á Santa Fe á mí derecha, de cuyo lugar, hé aquí una relación:
 
 Es una población española dependiente de Buenos Aires
 siendo el comandante un mero teniente, quien nada hace sin
@@ -36,10 +37,7 @@ orden del Gobernador de Buenos Aires. Es una pequeña población, compuesta de 2
 sin la cual no pueden estar en aquellas Provincias.
 El suelo, aqui como en Buenos Aires, es bueno y fértil,
 y el pueblo, no difiriendo en nada remarcable de lo que ya
-hemos observado en Buenos Aires, le dejo y prosigo mi viaje. Cuéntanse 140 leguas desde Buenos Aires hasta Córdoba, y por razón de ser algunas partes del camino en largos trechos despoblado, me proveí á mi salida de aquello que me dijeron precisarla. Partí, pues, llevando por guia un salvaje, con tres caballos y tres muías, algunas para llevar mi equipaje y el resto para mudar en el camino cuando el montado se me cansase.</head>
-     <div>
-          <p>
-               An example
+hemos observado en Buenos Aires, le dejo y prosigo mi viaje. Cuéntanse 140 leguas desde Buenos Aires hasta Córdoba, y por razón de ser algunas partes del camino en largos trechos despoblado, me proveí á mi salida de aquello que me dijeron precisarla. Partí, pues, llevando por guia un salvaje, con tres caballos y tres muías, algunas para llevar mi equipaje y el resto para mudar en el camino cuando el montado se me cansase.
           </p>
      </div>
      </body>
