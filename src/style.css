@@ -111,6 +111,8 @@ body footer {
     max-width: 300px;
     margin: auto;
     text-align: center;
+    background-color: rgb(55, 3, 107);
+    color: rgb(255, 255, 255);
 }
 
 .title-card {
@@ -123,8 +125,8 @@ body footer {
     outline: 0;
     display: inline-block;
     padding: 8px;
-    color: white;
-    background-color: #000;
+    background-color: rgb(255, 255, 255);
+    color: rgb(55, 3, 107);
     text-align: center;
     cursor: pointer;
     width: 100%;
