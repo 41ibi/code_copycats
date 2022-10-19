@@ -180,6 +180,7 @@ body footer {
     max-width: 300px;
     margin: auto;
     text-align: center;
+    vertical-align: middle;
     background-color: #331f69;
     color: rgb(255, 255, 255);
 }
