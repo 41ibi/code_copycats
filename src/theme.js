@@ -6,7 +6,8 @@ const secondaryColor = "#daeafb"
 
 const theme = createTheme({
     typography: {
-        fontFamily: "EB Garamond, Serif",
+        fontFamily: 'Verdana',
+        sans - serif;
         body1: {
             fontSize: "1.4rem",
             paddingBottom: "1rem",
@@ -23,7 +24,8 @@ const theme = createTheme({
         MuiCssBaseline: {
             styleOverrides: {
                 "@font-face": [{
-                    fontFamily: "EB Garamond",
+                    fontFamily: 'Verdana',
+                    sans - serif;
                     fontStyle: "normal",
                     fontDisplay: "swap",
                     fontWeight: 400,
