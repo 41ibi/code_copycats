@@ -32,7 +32,8 @@ h1 {
 /* "home.html" styles */
 
 .home_title,
-.home_nav {
+.home_nav,
+.charter-title {
     font-family: 'Verdana', sans-serif;
     text-align: center;
 }
