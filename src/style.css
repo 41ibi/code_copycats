@@ -34,6 +34,8 @@ a:active {
 
 .container {
     width: 75%;
+    left: 50%;
+    top: 50%;
 }
 
 .button-36 {
