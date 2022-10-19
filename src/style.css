@@ -182,13 +182,15 @@ body footer {
     text-align: center;
     background-color: #331f69;
     color: rgb(255, 255, 255);
-    flex: 0 1 24%;
 }
 
 .card {
     background-color: #ffffff;
     color: rgb(3, 3, 3);
     font-size: 25px;
+}
+
+.unit-card {
     flex: 0 1 24%;
 }
 
