@@ -85,11 +85,12 @@ footer {
     height: 2.5rem;
 }
 
-footer p {
+
+/*footer p {
     padding: 30px, 0px, 0px, 0px;
     position: absolute;
     bottom: 0;
-}
+}*/
 
 body footer {
     width: 100% !important;
