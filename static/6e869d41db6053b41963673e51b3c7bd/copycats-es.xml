@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+     <fileDesc>
+        <titleStmt>
+           <title>Viaje de Monsíenr Acárete du Biscay desde Buenos Aires hasta el Perú</title>
+           <author>Copycats</author>
+        </titleStmt>
+        <publicationStmt>
+           <publisher>Copycats University Press</publisher>
+           <date>2022</date>
+        </publicationStmt>
+        <sourceDesc>
+           <bibl>
+           <author>Acarete Du Biscay</author>
+           <title></title>
+           <pubPlace></pubPlace>
+           <date></date>
+           <biblScope unit="page">pp.22-27</biblScope>
+           </bibl>
+        </sourceDesc>
+     </fileDesc>
+ </teiHeader>
+ <text>
+   <body>
+   <pb/>
+   <head>Viaje de Monsíenr Acárete du Biscay desde Buenos Aires hasta el Perú</head>
+     <div>
+          <p>
+            Salí de <placeName>Buenos Aires</placeName> y tomé el camino de <placeName>Córdoba</placeName>, dejando á <placeName>Santa Fe</placeName> á mí derecha, de cuyo lugar, hé aquí una relación:
+Es una población española dependiente de <placeName>Buenos Aires</placeName>
+siendo el comandante un mero teniente, quien nada hace sin
+orden del Gobernador de <placeName>Buenos Aires</placeName>. Es una pequeña población, compuesta de 25 casas, sin murallas, fortificaciones, ni guarnición, distante de <placeName>Buenos Aires</placeName> 80 leguas al Norte. Situada sobre el <placeName>Rio de la Plata</placeName>, buques grandes podrían llegar hasta allí, si no fuese por un gran banco que obstruye el paso, un poco mas arriba de <placeName>Buenos Aires</placeName>. Sin embargo, es un punto muy ventajoso, porque es el único paso que hay al <placeName>Paraguay</placeName> desde el Perú<placeName>Paraguay</placeName>, <placeName>Chile</placeName> y <placeName>Tucuman</placeName>, y en cierto modo es el depósito de los efectos que de allí se estraen especialmente de la yerba, de la cual ya he hablado,
+sin la cual no pueden estar en aquellas Provincias.
+El suelo, aqui como en <placeName>Buenos Aires</placeName>, es bueno y fértil, y el pueblo, no difiriendo en nada remarcable de lo que ya
+hemos observado en <placeName>Buenos Aires</placeName>, le dejo y prosigo mi viaje. Cuéntanse 140 leguas desde <placeName>Buenos Aires</placeName> hasta <placeName>Córdoba</placeName>, y por razón de ser algunas partes del camino en largos trechos despoblado, me proveí á mi salida de aquello que me dijeron precisarla. Partí, pues, llevando por guia un salvaje, con tres caballos y tres muías, algunas para llevar mi equipaje y el resto para mudar en el camino cuando el montado se me cansase.
+          </p>
+     </div>
+     </body>
+ </text>
+</TEI>
