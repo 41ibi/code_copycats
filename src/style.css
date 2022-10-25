@@ -180,15 +180,21 @@ body footer {
     max-width: 300px;
     margin: auto;
     text-align: center;
+    vertical-align: middle;
     background-color: #331f69;
     color: rgb(255, 255, 255);
-    flex: 0 1 24%;
 }
 
 .card {
-    background-color: #ffffff;
+    background-color: #8d8696;
     color: rgb(3, 3, 3);
-    font-size: 25px;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+.unit-card {
+    flex: 0 1 24%;
 }
 
 .button-card {
