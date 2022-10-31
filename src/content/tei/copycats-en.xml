@@ -43,7 +43,7 @@
 <lb>manner the Magazine of the Commodi
  </p>
      </div>
-      <p rend="align(center)">
+      <p paragraph="align(center)">
  <lb>ties drawn from thence, particularly that 
  <lb>Herb already <choice> <orig>ſpoken</orig> <reg>spoken</reg> </choice> of, which they 
  <lb>cannot be without in thoſe Provinces. 
@@ -76,7 +76,7 @@
 <lb>into the River de la Plata are fordable 
 <lb>on <choice> <orig>horfe</orig> <reg>horse</reg> </choice> -back; but when the Rains or
  <lb> <fw type="catch">any</fw>
-</p>
+</p paragraph="align(center)">
 </div>
      </body>
  </text>
