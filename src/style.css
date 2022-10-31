@@ -222,5 +222,5 @@ a:hover {
 }
 
 tei-fw [type="catch"] {
-    border-right: #331f69;
+    align-content: flex-end;
 }
