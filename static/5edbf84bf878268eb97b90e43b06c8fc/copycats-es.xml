@@ -5,7 +5,7 @@
  <teiHeader>
      <fileDesc>
         <titleStmt>
-           <title>Viaje de Monsíenr Acárete du Biscay desde Buenos Aires hasta el Perú</title>
+           <title>Viaje de Monsieur Acarete du Biscay desde <placeName>Buenos Aires</placeName> hasta el <placeName>Perú</placeName></title>
            <author>Copycats</author>
         </titleStmt>
         <publicationStmt>
@@ -18,7 +18,7 @@
            <title>Viaje de Monsíeur Acárete du Biscay desde Buenos Aires hasta el Perú</title>
            <pubPlace>Buenos Aires </pubPlace>
            <date>1867</date>
-           <biblScope unit="page">pp.22-27</biblScope>
+           <biblScope unit="page">pp.22-23</biblScope>
            </bibl>
         </sourceDesc>
      </fileDesc>
@@ -30,25 +30,26 @@
    <head>Viaje de Monsíeur Acárete du Biscay desde Buenos Aires hasta el Perú</head>
      <div>
           <p>
-            <lb/>Salí de <placeName>Buenos Aires</placeName> y tomé el camino de <placeName>Córdoba</placeName>, de-<lb/>jando á <placeName>Santa Fe</placeName> á mí derecha, de cuyo lugar, hé aquí una <lb/>relación:
+            <lb/>Salí de <placeName>Buenos Aires</placeName> y tomé el camino de <placeName>Córdoba</placeName>, de-<lb/>jando <choice> <orig>á</orig> <reg>a</reg></choice>
+             <placeName>Santa Fe</placeName> <choice> <orig>á</orig> <reg>a</reg></choice> <choice> <orig>mí</orig> <reg>mi</reg></choice> derecha, de cuyo lugar, <choice> <orig>hé</orig> <reg>he</reg></choice> aquí una <lb/>relación:
          </p>
          <p>
-            <lb/>Es una población española dependiente de <placeName>Buenos Aires</placeName> <lb/>siendo el comandante un mero teniente, quien nada hace sin <lb/>orden del Gobernador de <placeName>Buenos Aires</placeName>. Es una pequeña <lb/>población, compuesta de 25 casas, sin murallas, fortifica-<lb/>ciones, ni guarnición, distante de <placeName>Buenos Aires</placeName> 80 leguas al <lb/>Norte. Situada sobre el <geogName>Rio de la Plata</geogName>, buques grandes podr-<lb/>ían llegar hasta allí, si no fuese por un gran banco que obs-<lb/>truye el paso, un poco mas arriba de <placeName>Buenos Aires</placeName>. Sin em-
+            <lb/>Es una población española dependiente de <placeName>Buenos Aires</placeName> <lb/>siendo el comandante un mero teniente, quien nada hace sin <lb/><choice> <orig>órden</orig> <reg>orden</reg></choice> del Gobernador de <placeName>Buenos Aires</placeName>. Es una pequeña <lb/><choice> <orig>poblacion</orig> <reg>población</reg></choice>, compuesta de 25 casas, sin murallas, fortifica-<lb/>ciones, ni <choice> <orig>guarnicion</orig> <reg>guarnición</reg></choice>, distante de <placeName>Buenos Aires</placeName> 80 leguas al <lb/>Norte. Situada sobre el <geogName><choice> <orig>Rio</orig> <reg>Río</reg></choice> de la Plata</geogName>, buques grandes po-<lb/><choice> <orig>drian</orig> <reg>drían</reg></choice>llegar hasta allí, si no fuese por un gran banco que obs-<lb/>truye el paso, un poco mas arriba de <placeName>Buenos Aires</placeName>. Sin em-
             </p>
             </div>
             <pb n="23"/>
             <fw type="head">UN LIBRO CURIOSO Y RARO</fw>
             <div>
             <p>
-            <lb/>bargo, es un punto muy ventajoso, porque es el único paso <lb/>que hay al <placeName>Paraguay</placeName> desde el Perú<placeName>Paraguay</placeName>, <placeName>Chile</placeName> y <placeName>Tucuman</placeName>, y en <lb/>cierto modo es el depósito de los efectos que de allí se es-<lb/>traen especialmente de la yerba, de la cual ya he hablado, <lb/>sin la cual no pueden estar en aquellas Provincias.
+            <lb/>bargo, es un punto muy ventajoso, porque es el único paso <lb/>que hay al <placeName>Paraguay</placeName> desde el <placeName>Perú</placeName>, <placeName>Chile</placeName> y <placeName>Tucuman</placeName>, y en <lb/>cierto modo es el depósito de los efectos que de allí se <choice> <orig>es-<lb/>traen</orig> <reg>ex-<lb/>trae</reg></choice> especialmente de la yerba, de la cual ya he hablado, <lb/>sin la cual no pueden estar en aquellas Provincias.
             </p>
             <p>
-            <lb/>El suelo, aqui como en <placeName>Buenos Aires</placeName>, es bueno y fértil, <lb/>y el pueblo, no difiriendo en nada remarcable de lo que ya <lb/>hemos observado en <placeName>Buenos Aires</placeName>, le dejo y prosigo mi <lb/>viaje. Cuéntanse 140 leguas desde <placeName>Buenos Aires</placeName> hasta <placeName>Cór-<lb/>doba</placeName>, y por razón de ser algunas partes del camino en lar-<lb/>gos trechos despoblado, me proveí á mi salida de aquello <lb/>que me dijeron precisarla. Partí, pues, llevando por guia <lb/>un salvaje, con tres caballos y tres muías, algunas para lle-<lb/>var mi equipaje y el resto para mudar en el camino cuando <lb/>el montado se me cansase.
+            <lb/>El suelo, <choice> <orig>aqui</orig> <reg>aquí</reg></choice> como en <placeName>Buenos Aires</placeName>, es bueno y fértil, <lb/>y el pueblo, no difiriendo en nada remarcable de lo que ya <lb/>hemos observado en <placeName>Buenos Aires</placeName>, le dejo y prosigo mi <lb/>viaje. Cuéntanse 140 leguas desde <placeName>Buenos Aires</placeName> hasta <placeName>Cór-<lb/>doba</placeName>, y por <choice> <orig>razon</orig> <reg>razón</reg></choice> de ser algunas partes del camino en lar-<lb/>gos trechos despoblado, me proveí á mi salida de aquello <lb/>que me dijeron <choice> <orig>precisaria</orig> <reg>precisaría</reg></choice>. Partí, pues, llevando por <choice> <orig>guia</orig> <reg>guía</reg></choice> <lb/>un salvaje, con tres caballos y tres muías, algunas para lle-<lb/>var mi equipaje y el resto para mudar en el camino cuando <lb/>el montado se me cansase.
             </p>
             <p>
-            Desde <placeName>Buenos Aires</placeName> hasta el <geogName>Rio de Lucan</geogName> <ref target="#p23_n1">(1)</ref> y aun hasta <lb/><geogName>el Rio Recife</geogName> <ref target="#p23_n2">(2)</ref> á 30 leguas del pueblo, pasé varias habi-<lb/>taciones y chacras cultivadas por los españoles, pero mas <lb/>allá del <placeName>Recife</placeName> hast i el <geogName>Rio Saladillo</geogName>, no vi ninguna. Obser-<lb/>varé de paso, que tanto estos rios como los demás de las <lb/>provincias de <placeName>Buenos Aires</placeName>, <placeName>Paraguay</placeName> y <placeName>Tucuman</placeName>, que de-<lb/>saguan en el <geogName>Rio de la Plata</geogName>, son vadeables á caballo, pero <lb/>cuando las lluvias ó cualesquier accidente los hace crecer, <lb/>el viajero se vé obligado á atravesarlos nadando, sino ó <lb/>colocarse sobre un bulto en forma de balsa que un salva-<lb/>je pasa tirando al lado opuesto. No sabia yo nadar, y por <lb/>lo mismo tuve dos ó tres veces que acudir á este espedien-<lb/>te cuando no encontraba paso. El modo de verificarlo era <lb/>este: mi indio mataba un toro, desollábalo, y rellenando 
+            Desde <placeName>Buenos Aires</placeName> hasta el <geogName><choice> <orig>Rio</orig> <reg>Río</reg></choice> de Lucan</geogName> <ref target="#p23_n1">(1)</ref> y aun hasta <lb/><geogName>el <choice> <orig>Rio</orig> <reg>Río</reg></choice> Recife</geogName> <ref target="#p23_n2">(2)</ref> <choice> <orig>á</orig> <reg>a</reg></choice> 30 leguas del pueblo, pasé varias habi-<lb/>taciones y chacras cultivadas por los españoles, pero <choice> <orig>mas</orig> <reg>más</reg></choice> <lb/>allá del <placeName>Recife</placeName> hasta el <geogName><choice> <orig>Rio</orig> <reg>Río</reg></choice> Saladillo</geogName>, no <choice> <orig>ví</orig> <reg>vi</reg></choice> ninguna. Obser-<lb/>varé de paso, que tanto estos <choice> <orig>rios</orig> <reg>ríos</reg></choice> como los demás de las <lb/>provincias de <placeName>Buenos Aires</placeName>, <placeName>Paraguay</placeName> y <placeName>Tucuman</placeName>, que de-<lb/>saguan en el <geogName><choice> <orig>Rio</orig> <reg>Río</reg></choice> de la Plata</geogName>, son vadeables <choice> <orig>á</orig> <reg>a</reg></choice> caballo, pero <lb/>cuando las lluvias <choice> <orig>ó</orig> <reg>o</reg></choice> cualesquier accidente los hace crecer, <lb/>el viajero se <choice> <orig>vé</orig> <reg>ve</reg></choice>obligado <choice> <orig>á</orig> <reg>a</reg></choice> atravesarlos nadando, sino <choice> <orig>ó</orig> <reg>o</reg></choice> <lb/>colocarse sobre un bulto en forma de balsa que un salva-<lb/>je pasa tirando al lado opuesto. No <choice> <orig>sabia</orig> <reg>sabía</reg></choice> yo nadar, y por <lb/>lo mismo tuve dos <choice> <orig>ó</orig> <reg>o</reg></choice> tres veces que acudir <choice> <orig>á</orig> <reg>a</reg></choice> este <choice> <orig>espedien-<lb/>te</orig> <reg>expedien-<lb/>te</reg></choice> cuando no encontraba paso. El modo de verificarlo era <lb/>este: mi indio mataba un toro, desollábalo, y rellenando 
             </p>
-            <lb/><note xml:id="p23_n1">1. <placeName>Lujan</placeName>.</note>
+            <lb/><note xml:id="p23_n1">1. <placeName><choice> <orig>Lujan</orig> <reg>Luján</reg></choice></placeName>.</note>
             <lb/><note xml:id="p23_n2">2. <placeName>Arrecifes</placeName>.</note>
 
      </div>

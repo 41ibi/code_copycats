@@ -8,10 +8,17 @@
            <title>Monſieur Acarete du Biscay's Journey from Buenos Ayres to Peru</title>
         </titleStmt>
         <publicationStmt>
-           <p/>
+           <publisher>Copycats University Press</publisher>
+           <date>2022</date>
         </publicationStmt>
         <sourceDesc>
-           <p/>
+           <bibl>
+           <author>Acarete Du Biscay</author>
+           <title>Monſieur Acarete du Biscay's Journey from Buenos Ayres to Peru</title>
+           <pubPlace>Buenos Aires </pubPlace>
+           <date>1867</date>
+           <biblScope unit="page">pp.24-25</biblScope>
+           </bibl>
         </sourceDesc>
      </fileDesc>
  </teiHeader>
