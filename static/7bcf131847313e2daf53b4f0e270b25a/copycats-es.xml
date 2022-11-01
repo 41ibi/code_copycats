@@ -44,14 +44,11 @@
             <lb/>El suelo, aqui como en <placeName>Buenos Aires</placeName>, es bueno y fértil, <lb/>y el pueblo, no difiriendo en nada remarcable de lo que ya <lb/>hemos observado en <placeName>Buenos Aires</placeName>, le dejo y prosigo mi <lb/>viaje. Cuéntanse 140 leguas desde <placeName>Buenos Aires</placeName> hasta <placeName>Cór-<lb/>doba</placeName>, y por razón de ser algunas partes del camino en lar-<lb/>gos trechos despoblado, me proveí á mi salida de aquello <lb/>que me dijeron precisarla. Partí, pues, llevando por guia <lb/>un salvaje, con tres caballos y tres muías, algunas para lle-<lb/>var mi equipaje y el resto para mudar en el camino cuando <lb/>el montado se me cansase.
             </p>
             <p>
-            Desde <placeName>Buenos Aires</placeName> hasta el <geogName>Rio de Lucan</geogName> (1) y aun hasta <lb/><geogName>el Rio Recife</geogName> (2) á 30 leguas del pueblo, pasé varias habi-<lb/>taciones y chacras cultivadas por los españoles, pero mas <lb/>allá del <placeName>Recife</placeName> hast i el <geogName>Rio Saladillo</geogName>, no vi ninguna. Obser-<lb/>varé de paso, que tanto estos rios como los demás de las <lb/>provincias de <placeName>Buenos Aires</placeName>, <placeName>Paraguay</placeName> y <placeName>Tucuman</placeName>, que de-<lb/>saguan en el <geogName>Rio de la Plata</geogName>, son vadeables á caballo, pero <lb/>cuando las lluvias ó cualesquier accidente los hace crecer, <lb/>el viajero se vé obligado á atravesarlos nadando, sino ó <lb/>colocarse sobre un bulto en forma de balsa que un salva-<lb/>je pasa tirando al lado opuesto. No sabia yo nadar, y por <lb/>lo mismo tuve dos ó tres veces que acudir á este espedien-<lb/>te cuando no encontraba paso. El modo de verificarlo era <lb/>este: mi indio mataba un toro, desollábalo, y rellenando 
+            Desde <placeName>Buenos Aires</placeName> hasta el <geogName>Rio de Lucan</geogName> <ref target="#p23_n1">(1)</ref> y aun hasta <lb/><geogName>el Rio Recife</geogName> <ref target="#p23_n2">(2)</ref> á 30 leguas del pueblo, pasé varias habi-<lb/>taciones y chacras cultivadas por los españoles, pero mas <lb/>allá del <placeName>Recife</placeName> hast i el <geogName>Rio Saladillo</geogName>, no vi ninguna. Obser-<lb/>varé de paso, que tanto estos rios como los demás de las <lb/>provincias de <placeName>Buenos Aires</placeName>, <placeName>Paraguay</placeName> y <placeName>Tucuman</placeName>, que de-<lb/>saguan en el <geogName>Rio de la Plata</geogName>, son vadeables á caballo, pero <lb/>cuando las lluvias ó cualesquier accidente los hace crecer, <lb/>el viajero se vé obligado á atravesarlos nadando, sino ó <lb/>colocarse sobre un bulto en forma de balsa que un salva-<lb/>je pasa tirando al lado opuesto. No sabia yo nadar, y por <lb/>lo mismo tuve dos ó tres veces que acudir á este espedien-<lb/>te cuando no encontraba paso. El modo de verificarlo era <lb/>este: mi indio mataba un toro, desollábalo, y rellenando 
             </p>
-            <p>
-            <list>
-            <label>1.</label><item><placeName>Lujan</placeName>.</item> 
-            <label>2.</label><item><placeName>Arrecifes</placeName>.</item>
-            </list>
-             </p>
+            <note xml:id="p23_n1">1. Lujan</note>
+            <note xml:id="p23_n2">2. Arrecifes</note>
+
      </div>
      </body>
  </text>
