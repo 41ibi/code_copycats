@@ -56,6 +56,13 @@ tei-choice tei-reg+tei-orig:after {
 }
 
 
+/*Justifyng*/
+
+* {
+    text-align: justify !important;
+}
+
+
 /* A */
 
 tei-ab {
@@ -751,7 +758,7 @@ tei-p {
     display: block;
     margin-top: 1em;
     margin-bottom: 1em;
-    text-align: justify;
+    text-align: justify !important;
 }
 
 *[data-tei-rendition~="#center"] p {
