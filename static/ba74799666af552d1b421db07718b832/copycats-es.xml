@@ -47,7 +47,12 @@
             Desde <placeName>Buenos Aires</placeName> hasta el Rio de Lucan (1) y aun hasta <lb/>el Rio Recife (2) á 30 leguas del pueblo, pasé varias habi-<lb/>taciones y chacras cultivadas por los españoles, pero mas <lb/>allá del Recife hast i el Rio Saladillo, no vi ninguna. Obser-<lb/>varé de paso, que tanto estos rios como los demás de las <lb/>provincias de <placeName>Buenos Aires</placeName>, <placeName>Paraguay</placeName> y <placeName>Tucuman</placeName>, que de-<lb/>saguan en el Rio de la Plata, son vadeables á caballo, pero <lb/>cuando las lluvias ó cualesquier accidente los hace crecer, <lb/>el viajero se vé obligado á atravesarlos nadando, sino ó <lb/>colocarse sobre un bulto en forma de balsa que un salva-<lb/>je pasa tirando al lado opuesto. No sabia yo nadar, y por <lb/>lo mismo tuve dos ó tres veces que acudir á este espedien-<lb/>te cuando no encontraba paso. El modo de verificarlo era <lb/>este: mi indio mataba un toro, desollábalo, y rellenando 
             </p>
             <p>
-            1. <lb/><placeName>Lujan</placeName>. <lb/>2. <placeName>Arrecifes</placeName>.
+            <list>
+            <label>1.</label> <item><placeName>Lujan</placeName>.</item> 
+            <lb/>
+            <label>2.</label> 
+            <item><placeName>Arrecifes</placeName>.</item>
+            </list>
              </p>
      </div>
      </body>
