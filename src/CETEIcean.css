@@ -56,13 +56,6 @@ tei-choice tei-reg+tei-orig:after {
 }
 
 
-/*Justifyng*/
-
-* {
-    text-align: justify !important;
-}
-
-
 /* A */
 
 tei-ab {

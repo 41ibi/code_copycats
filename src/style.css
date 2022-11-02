@@ -224,3 +224,7 @@ a:hover {
 tei-p {
     text-align: justify;
 }
+
+tei-fw {
+    display: none;
+}
