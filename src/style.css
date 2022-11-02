@@ -225,6 +225,10 @@ tei-p {
     text-align: justify;
 }
 
+tei-lb {
+    display: none;
+}
+
 tei-fw {
     display: none;
 }
