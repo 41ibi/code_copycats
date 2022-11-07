@@ -221,3 +221,14 @@ a:hover {
     opacity: 0.7;
 }
 
+tei-p {
+    text-align: justify;
+}
+
+tei-lb {
+    display: none;
+}
+
+tei-fw {
+    display: none;
+}
