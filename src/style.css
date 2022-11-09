@@ -228,3 +228,7 @@ tei-lb {
 tei-fw {
     display: none;
 }
+
+tei-name[type=place] {
+    color: red
+}
