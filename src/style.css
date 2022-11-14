@@ -241,6 +241,12 @@ tei-name[type=place] {
     flex-basis: 100%;
     flex: 1;
 }
+.double-column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 2;
+  }
 .EnglishColumn {height: 100%; 
 }
 
