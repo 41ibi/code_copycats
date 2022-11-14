@@ -256,3 +256,6 @@ tei-name[type=place] {
 
 .SpanishColumn {height: 100%; width: 50%;
 }
+.container {
+    column-count: 2;
+  }
