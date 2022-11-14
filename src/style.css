@@ -241,24 +241,24 @@ tei-name[type=place] {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 100%;
+    width: 50%;
   }
   
   .column {
     display: flex;
     flex-direction: column;
-    flex-basis: 100%;
+    flex-basis: 50%;
     flex: 1;
   }
   
   .double-column {
     display: flex;
     flex-direction: column;
-    flex-basis: 100%;
+    flex-basis: 50%;
     flex: 2;
   }
-.EnglishColumn {height: 100%; 
+.EnglishColumn {height: 100%; width: 50%;
 }
 
-.SpanishColumn {height: 100%;
+.SpanishColumn {height: 100%; width: 50%;
 }
