@@ -238,14 +238,14 @@ tei-name[type=place] {
  .English {
     display: flex;
     flex-direction: column; 
-    width: 50%;
+    width: 75%;
     text-align: left;
 }
 
 .Spanish { 
     display:flex; 
     flex-direction: column;
-    width: 50%; 
+    width: 75%; 
     text-align: right;
 }
     
