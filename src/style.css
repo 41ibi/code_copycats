@@ -232,7 +232,7 @@ tei-fw {
 tei-name[type=place] {
     color: red
 }
-.flex-container {display: flex; flex-direction:column;
+.pagewrapper {display: flex; flex-direction:column;
  margin: 15px;}
 
  .column {
