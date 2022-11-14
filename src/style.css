@@ -245,16 +245,16 @@ tei-name[type=place] {
   
   .column {
         float: left;
-        width: 50%;
+        width: 100%;
         padding: 10px;
         height: 300px
   }
   
 
-.EnglishColumn {height: 100%; width: 50%;
+.EnglishColumn {height: 100%; width: 100%;
 }
 
-.SpanishColumn {height: 100%; width: 50%;
+.SpanishColumn {height: 100%; width: 100%;
 }
 .container {
     column-count: 2;
