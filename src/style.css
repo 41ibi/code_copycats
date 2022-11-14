@@ -232,6 +232,7 @@ tei-fw {
 tei-name[type=place] {
     color: red
 }
-.flex-container{display: flex; flex-direction: column;
+.flex-container{display: flex; flex-direction: row;
  }
- .flex-container div {columns: 30px; text-align: inherit;
+
+ .flex-container div {text-align: justify;}
