@@ -237,26 +237,20 @@ tei-name[type=place] {
     margin: 15px;
   }
 
- .row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 50%;
+  .row {
+    content: "";
+    display: table;
+    clear: both;
   }
   
   .column {
-    display: flex;
-    flex-direction: column;
-    flex-basis: 50%;
-    flex: 1;
+        float: left;
+        width: 50%;
+        padding: 10px;
+        height: 300px
   }
   
-  .double-column {
-    display: flex;
-    flex-direction: column;
-    flex-basis: 50%;
-    flex: 2;
-  }
+
 .EnglishColumn {height: 100%; width: 50%;
 }
 
