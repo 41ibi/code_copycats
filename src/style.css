@@ -233,7 +233,7 @@ tei-name[type=place] {
     color: red
 }
 .flex-container div {display: flex; flex-direction:column;
- }
+ margin: 15px;}
 
  .column {
     display: flex;
@@ -241,7 +241,7 @@ tei-name[type=place] {
     flex-basis: 100%;
     flex: 1;
 }
-.EngilshColumn {height: 100%;color: aliceblue;}
+.EnglishColumn {height: 100%;color: aliceblue;}
 
 .SpanishColumn {height: 100%; color: beige;}
 
