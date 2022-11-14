@@ -235,8 +235,6 @@ tei-name[type=place] {
 .flex-container{display: flex; flex-direction:column;
  }
 
- .flex-container div {text-align: justify; flex-direction: column; margin: 30px;}
-
  .English {
     display: flex;
     flex-direction: column; 
