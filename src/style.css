@@ -232,8 +232,10 @@ tei-fw {
 tei-name[type=place] {
     color: red
 }
-.page-wrapper {
- margin: 15px;}
+
+.some-page-wrapper {
+    margin: 15px;
+  }
 
  .row {
     display: flex;
@@ -260,11 +262,3 @@ tei-name[type=place] {
 
 .SpanishColumn {height: 100%;
 }
-
-.row { 
-    display:flex; 
-    flex-direction:row;
-    flex-wrap: wrap; 
-    width: 100%;
-}
-    
