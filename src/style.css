@@ -243,11 +243,10 @@ tei-name[type=place] {
   .column {
         float: center;
         width: 100%;
-        padding: 10px;
+        padding: 70px;
         height: 300px
   }
   
-
 .EnglishColumn {height: 100%; width: 100%;
 }
 
