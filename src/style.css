@@ -234,4 +234,4 @@ tei-name[type=place] {
 }
 .flex-container{display: flex; flex-direction: column;
  }
- .flex-container div {columns: 30px; text-align: center ;}
+ .flex-container div {columns: 30px; text-align: inherit;
