@@ -236,14 +236,14 @@ tei-name[type=place] {
 
   .row {
     content:normal;
-    display: table;
+    display:block;
     clear: both;
   }
   
   .column {
         float: center;
         width: 100%;
-        padding: 70px;
+        padding: 20px;
         height: 300px
   }
   
