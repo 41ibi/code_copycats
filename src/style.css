@@ -234,33 +234,27 @@ tei-name[type=place] {
 }
 
 
-  .row {
-    content:normal;
-    display:inline-flex;
-    clear: both;
-    flex-wrap: wrap;
-  }
   
   .column1 {
-        float:left;
-        width: 100%;
-        padding: 5px;
-        height: 5px 
+    height: 175px;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    background: #162e2e;
     }
 .column2 {
-    float:right;
-        width: 100%;
-        padding: 5px;
-        height: 5px
+    height: 175px;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    background: #162e2e;
     }
         
-  
-  
-.EnglishColumn {height: 100%; width: 100%;
-}
-
-.SpanishColumn {height: 100%; width: 100%;
-}
-.container {
-    column-count: 2;
-  }
+    .paragraph {
+        display: flex;
+      }
+      
+      .paragraph > p {
+        flex: 1 1 50%;
+        border: 1px solid black;
+      }
