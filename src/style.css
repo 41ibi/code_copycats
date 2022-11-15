@@ -241,12 +241,20 @@ tei-name[type=place] {
     flex-wrap: wrap;
   }
   
-  .column {
-        float:inline-start;
+  .column1 {
+        float:left;
+        width: 100%;
+        padding: 80px;
+        height: 100px 
+    }
+.column2 {
+    float:left;
         width: 100%;
         padding: 80px;
         height: 100px
-  }
+    }
+        
+  
   
 .EnglishColumn {height: 100%; width: 100%;
 }
