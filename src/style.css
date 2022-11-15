@@ -244,13 +244,13 @@ tei-name[type=place] {
   .column1 {
         float:left;
         width: 100%;
-        padding: 80px;
+        padding: 5px;
         height: 100px 
     }
 .column2 {
     float:left;
         width: 100%;
-        padding: 80px;
+        padding: 5px;
         height: 100px
     }
         
