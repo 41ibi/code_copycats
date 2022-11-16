@@ -49,17 +49,15 @@ a:active {
     text-decoration: none;
 }
 
+
 tei-choice:hover tei-orig {
-    color: red;
-}
-
-tei-orig:hover {
-    display: inline;
-}
-
-tei-orig {
+    display: inline
+  }
+  
+  tei-orig {
     display: none;
-}
+    color: red;
+  }
 
 .container {
     width: 75%;
