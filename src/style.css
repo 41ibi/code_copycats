@@ -53,14 +53,13 @@ tei-choice:hover tei-orig {
     color: red;
 }
 
-
-/* tei-orig:hover {
+tei-orig:hover {
     display: inline;
 }
 
 tei-orig {
     display: none;
-} */
+}
 
 .container {
     width: 75%;
