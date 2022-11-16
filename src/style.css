@@ -52,6 +52,7 @@ tei-choice:hover tei-orig {
     color: red;
 }
 
+
 /* tei-orig:hover {
     display: inline;
 }
@@ -60,11 +61,13 @@ tei-orig {
     display: none;
 } */
 
-/*.container {
+.container {
     width: 75%;
     left: 50%;
     top: 50%;
-}*/
+    align-items: center;
+    text-align: center;
+}
 
 
 /* CSS */
@@ -244,32 +247,33 @@ tei-name[type=place] {
     color: red
 }
 
-
-  
-  .column1 {
+.column1 {
     height: 175px;
     padding: 0px;
     border: 0px;
     margin: 0px;
-        }
+}
+
 .column2 {
     height: 175px;
     padding: 0px;
     border: 0px;
     margin: 0px;
-    }
-        
-    .paragraph {
-        display: flex;
-      }
-      
-      .paragraph > p {
-        flex: 1 1 50%;
-      }
-      .div {
-        column-count: 2;
-      }
+}
 
-    .charter {
-        display: flex; /* or inline-flex */
-      }
+.paragraph {
+    display: flex;
+}
+
+.paragraph>p {
+    flex: 1 1 50%;
+}
+
+.div {
+    column-count: 2;
+}
+
+.charter {
+    display: flex;
+    /* or inline-flex */
+}
