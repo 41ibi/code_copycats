@@ -244,6 +244,10 @@ tei-name[type=place] {
     color: green;
 }
 
+tei-name[type=placeGeog] {
+    color: blue;
+}
+
 .column1 {
     height: 175px;
     padding: 0px;
