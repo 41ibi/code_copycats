@@ -48,6 +48,17 @@ a:active {
     text-decoration: none;
 }
 
+tei-choice:hover tei-orig {
+    color: red;
+}
+
+/* tei-orig:hover {
+    display: inline;
+}
+
+tei-orig {
+    display: none;
+} */
 
 /*.container {
     width: 75%;
@@ -257,4 +268,8 @@ tei-name[type=place] {
       }
       .div {
         column-count: 2;
+      }
+
+    .charter {
+        display: flex; /* or inline-flex */
       }
