@@ -258,3 +258,7 @@ tei-name[type=place] {
       .div {
         column-count: 2;
       }
+
+    .charter {
+        display: flex; /* or inline-flex */
+      }
