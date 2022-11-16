@@ -49,15 +49,14 @@ a:active {
     text-decoration: none;
 }
 
-
 tei-choice:hover tei-orig {
     display: inline
-  }
-  
-  tei-orig {
+}
+
+tei-orig {
     display: none;
     color: red;
-  }
+}
 
 .container {
     width: 75%;
@@ -242,7 +241,7 @@ tei-fw {
 }
 
 tei-name[type=place] {
-    color: red
+    color: green;
 }
 
 .column1 {
