@@ -8,6 +8,7 @@ import ListItemAvatar from '@mui/material/ListItemAvatar'
 import Avatar from '@mui/material/Avatar'
 
 import theme from "../theme"
+import Vocabulary from "../vocabulary"
 
 import "../CETEIcean.css"
 

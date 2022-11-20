@@ -1,6 +1,7 @@
 import React from "react"
 import Layout from "./layout"
 import { useStaticQuery, graphql } from "gatsby"
+import Vocabulary from "../vocabulary"
 
 export default function Page({ pageContext }) {
   return (
@@ -9,7 +10,7 @@ export default function Page({ pageContext }) {
     </Layout>
   )
 }
-
+const words= Vocabulary()
 export const Head = () => {
   const data = useStaticQuery(graphql`
     query title {
