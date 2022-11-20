@@ -69,7 +69,7 @@ tei-orig {
 }
 
 .bio-header {
-    background-color: grey;
+    /* background-color: grey;*/
     align-items: center;
     text-align: center;
 }
