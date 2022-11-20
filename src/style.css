@@ -68,8 +68,9 @@ tei-orig {
 
 .bio {
     display: flex;
-    align-items: flex-start;
+    align-items: stretch;
     justify-content: space-around;
+    height: 90vh;
 }
 
 .bio-header {
@@ -77,10 +78,11 @@ tei-orig {
     align-items: center;
     text-align: center;
     flex: 10%;
-    align-content: flex-start;
+    align-content: space-around;
     margin: 2px;
-    height: 85vh;
+    height: 90vh;
     color: #fff;
+    padding: 2px;
 }
 
 .bio-en,
@@ -141,7 +143,7 @@ tei-orig {
 }
 
 .button-61:not(:disabled) {
-    background-color: #77659d;
+    background-color: #4d4a6b;
 }
 
 .button-61:focus {
