@@ -66,17 +66,17 @@ tei-orig {
     text-align: center;
 }
 
+.bio {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
 .bio-header {
     /* background-color: grey;*/
     align-items: center;
     text-align: center;
     flex: 25%;
-}
-
-.bio-text {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
 }
 
 .bio-en,
