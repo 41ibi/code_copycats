@@ -70,12 +70,6 @@ tei-orig {
     /* background-color: grey;*/
     align-items: center;
     text-align: center;
-}
-
-.bio-header>h3 {
-    margin: 2px;
-    margin-block-start: 2px;
-    margin-block-end: 2px;
     flex: 25%;
 }
 
