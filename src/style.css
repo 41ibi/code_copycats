@@ -68,22 +68,27 @@ tei-orig {
 
 .bio {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-around;
 }
 
 .bio-header {
-    /* background-color: grey;*/
+    background-color: rgb(9, 1, 52);
     align-items: center;
     text-align: center;
-    flex: 25%;
+    flex: 10%;
+    align-content: flex-start;
+    margin: 2px;
+    height: 85vh;
+    color: #fff;
 }
 
 .bio-en,
 .bio-es {
     flex: 35%;
     text-align: justify;
-    padding: 1%;
+    padding: 2%;
+    font-size: medium;
 }
 
 
