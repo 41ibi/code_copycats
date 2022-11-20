@@ -35,6 +35,10 @@ h1 {
     align-items: center;
 }
 
+.home_title {
+    align-self: center;
+}
+
 .t1 {
     font-size: 26px;
 }
@@ -59,9 +63,6 @@ tei-orig {
 }
 
 .container {
-    width: 75%;
-    left: 50%;
-    top: 50%;
     align-items: center;
     text-align: center;
 }
