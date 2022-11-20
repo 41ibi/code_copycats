@@ -70,7 +70,8 @@ tei-orig {
     display: flex;
     align-items: stretch;
     justify-content: space-around;
-    height: 90vh;
+    max-height: 90vh;
+    min-height: 65vh;
 }
 
 .bio-header {
@@ -80,7 +81,7 @@ tei-orig {
     flex: 10%;
     align-content: space-around;
     margin: 2px;
-    height: 90vh;
+    max-height: 90vh;
     color: #fff;
     padding: 2px;
 }
