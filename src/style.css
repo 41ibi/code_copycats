@@ -66,6 +66,11 @@ tei-orig {
     text-align: center;
 }
 
+.bio-header {
+    background-color: grey;
+    align-items: center;
+}
+
 .bio-text {
     display: flex;
     align-items: center;
@@ -75,6 +80,7 @@ tei-orig {
 .bio-en,
 .bio-es {
     flex: 50%;
+    text-align: justify;
 }
 
 
