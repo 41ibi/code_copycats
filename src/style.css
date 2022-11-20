@@ -69,8 +69,12 @@ tei-orig {
 .bio-text {
     display: flex;
     align-items: center;
-    flex-wrap: wrap;
     justify-content: space-between;
+}
+
+.bio-en,
+.bio-es {
+    flex: 50%;
 }
 
 
