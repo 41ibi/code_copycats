@@ -54,7 +54,7 @@ a:active {
 }
 
 tei-choice {
-    font-style: italic;
+    font-style: oblique;
 }
 
 tei-choice:hover tei-orig {
