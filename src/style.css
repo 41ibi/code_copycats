@@ -319,4 +319,19 @@ tei-name[type=placeGeog] {
 .charter {
     display: flex;
     /* or inline-flex */
+
 }
+
+.aboutes{
+    flex: 35%;
+    text-align: justify;
+    padding: 2%;
+    font-size: medium;
+    background-color: rgb(227, 227, 227);}
+
+    .abouten{
+        flex: 35%;
+        text-align: justify;
+        padding: 2%;
+        font-size: medium;
+        background-color: rgb(227, 227, 227);}
