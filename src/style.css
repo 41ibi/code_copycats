@@ -291,17 +291,19 @@ tei-name[type=placeGeog] {
 }
 
 .column1 {
-    height: 175px;
-    padding: 0px;
-    border: 0px;
-    margin: 0px;
+    flex: 35%;
+    text-align: justify;
+    padding: 2%;
+    font-size: medium;
+    background-color: rgb(227, 227, 227);
 }
 
 .column2 {
-    height: 175px;
-    padding: 0px;
-    border: 0px;
-    margin: 0px;
+    flex: 35%;
+    text-align: justify;
+    padding: 2%;
+    font-size: medium;
+    background-color: rgb(227, 227, 227)
 }
 
 .paragraph {
