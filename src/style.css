@@ -53,13 +53,25 @@ a:active {
     text-decoration: none;
 }
 
+tei-choice {
+    font-style: italic;
+}
+
 tei-choice:hover tei-orig {
     display: inline
 }
 
-tei-orig {
+tei-choice tei-orig {
     display: none;
     color: red;
+}
+
+tei-orig::before {
+    content: "(";
+}
+
+tei-orig::after {
+    content: ")";
 }
 
 .container {

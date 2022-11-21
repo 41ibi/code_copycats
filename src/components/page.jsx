@@ -9,7 +9,6 @@ export default function Page({ pageContext }) {
     </Layout>
   )
 }
-
 export const Head = () => {
   const data = useStaticQuery(graphql`
     query title {
