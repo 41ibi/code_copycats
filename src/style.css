@@ -340,5 +340,5 @@ tei-name[type=placeGeog] {
 
         tei-measure tei-cardinal {
             display: none;
-            color: rgb(255, 242, 0);
+            color: rgba(255, 196, 0, 0.811);
         }
