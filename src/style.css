@@ -338,7 +338,7 @@ tei-name[type=placeGeog] {
         font-size: medium;
         background-color: rgb(227, 227, 227);}
 
-        tei-measure[type=num] {
+        tei-measure[type= cardinal] {
             color: rgba(237, 164, 5, 0.945);
         }
         tei-measure[type=distance] {
@@ -346,4 +346,8 @@ tei-name[type=placeGeog] {
         }
         tei-measure[type=currency] {
             color: rgba(21, 219, 190, 0.945);
+        }
+        
+        tei-measure[type= ordinal] {
+            color: rgba(237, 164, 5, 0.945);
         }
