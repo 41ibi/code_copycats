@@ -339,8 +339,11 @@ tei-name[type=placeGeog] {
         background-color: rgb(227, 227, 227);}
 
         tei-measure[type=num] {
-            color: rgba(123, 152, 181, 0.945);
+            color: rgba(237, 164, 5, 0.945);
         }
         tei-measure[type=distance] {
-            color: rgba(123, 152, 181, 0.945);
+            color: rgba(82, 153, 223, 0.945);
+        }
+        tei-measure[type=currency] {
+            color: rgba(21, 219, 190, 0.945);
         }
