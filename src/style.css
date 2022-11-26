@@ -338,7 +338,6 @@ tei-name[type=placeGeog] {
         font-size: medium;
         background-color: rgb(227, 227, 227);}
 
-        tei-measure tei-cardinal {
-            display: none;
-            color: rgba(255, 196, 0, 0.811);
+        tei-measure[type=num] {
+            color: rgb(235, 174, 8);
         }
