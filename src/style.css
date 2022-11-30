@@ -108,6 +108,22 @@ tei-orig::after {
     background-color: rgb(227, 227, 227);
 }
 
+/* charter */
+.grid {margin: 15px; background-color: white;}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  .column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+  }
 
 /* CSS */
 
