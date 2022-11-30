@@ -108,21 +108,23 @@ tei-orig::after {
     background-color: rgb(227, 227, 227);
 }
 
+/*.multiling { overflow: hidden; }
+
+The second defines divs to the left 
+.left { float: left; width: 40%; }
+
+And the third to the right 
+.right { float: right; width: 40%; }*/
+
 /* charter */
-.grid {margin: 15px; background-color: white;}
+.grid {margin: 15px; background-color: white; overflow: hidden;}
 
 .row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 100%;
+    
   }
   
-  .column {
-    display: flex;
-    flex-direction: column;
-    flex-basis: 100%;
-    flex: 1;
+.column {
+    float: right; width: 40%
   }
 
 /* CSS */
@@ -345,14 +347,9 @@ tei-name[type=placeGeog] {
     text-align: justify;
     padding: 2%;
     font-size: medium;
-    background-color: rgb(227, 227, 227);}
+    background-color: rgb(227, 227, 227); float: right; width:40%;}
 
-    .abouten{
-        flex: 35%;
-        text-align: justify;
-        padding: 2%;
-        font-size: medium;
-        background-color: rgb(227, 227, 227);}
+.abouten{float: left; width:40%; flex: 35%; text-align: justify; padding: 2%; font-size: medium; background-color: rgb(227, 227, 227);}
 
         tei-measure[type= cardinal] {
             color: rgba(237, 164, 5, 0.945);
