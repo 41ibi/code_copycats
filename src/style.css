@@ -108,24 +108,6 @@ tei-orig::after {
     background-color: rgb(227, 227, 227);
 }
 
-/*.multiling { overflow: hidden; }
-
-The second defines divs to the left 
-.left { float: left; width: 40%; }
-
-And the third to the right 
-.right { float: right; width: 40%; }*/
-
-/* charter */
-.grid {margin: 15px; background-color: white; overflow: hidden;}
-
-.row {
-    
-  }
-  
-.column {
-    float: right; width: 40%
-  }
 
 /* CSS */
 
