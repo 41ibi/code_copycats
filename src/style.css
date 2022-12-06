@@ -79,7 +79,8 @@ tei-orig::after {
     text-align: center;
 }
 
-.bio {
+.bio,
+.edition {
     display: flex;
     align-items: stretch;
     justify-content: space-around;
@@ -87,7 +88,8 @@ tei-orig::after {
     min-height: 65vh;
 }
 
-.bio-header {
+.bio-header,
+.edition-header {
     background-color: rgb(9, 1, 52);
     align-items: center;
     text-align: center;
@@ -100,7 +102,9 @@ tei-orig::after {
 }
 
 .bio-en,
-.bio-es {
+.bio-es,
+.edition-es,
+.edition-en {
     flex: 35%;
     text-align: justify;
     padding: 2%;
