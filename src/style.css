@@ -207,6 +207,9 @@ footer {
     font-size: small;
     color: rgb(194, 191, 201);
     height: 1.5rem;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
 }
 
 footer p {
@@ -214,7 +217,8 @@ footer p {
 }
 
 body footer {
-    position: absolute !important; bottom: 0! important;
+    position: absolute !important;
+    bottom: 0! important;
     width: 100% !important;
 }
 
@@ -322,28 +326,40 @@ tei-name[type=placeGeog] {
 .charter {
     display: flex;
     /* or inline-flex */
-
 }
 
-.aboutes{
+.aboutes {
     flex: 35%;
     text-align: left;
     padding: 2%;
     font-size: medium;
-    background-color: rgb(227, 227, 227); float: right; width:40%}
+    background-color: rgb(227, 227, 227);
+    float: right;
+    width: 40%
+}
 
-.abouten{float: left; width:40%; flex: 35%; text-align: right; padding: 2%; font-size: medium; background-color: rgb(227, 227, 227);}
+.abouten {
+    float: left;
+    width: 40%;
+    flex: 35%;
+    text-align: right;
+    padding: 2%;
+    font-size: medium;
+    background-color: rgb(227, 227, 227);
+}
 
-        tei-measure[type= cardinal] {
-            color: rgba(237, 164, 5, 0.945);
-        }
-        tei-measure[type=distance] {
-            color: rgba(82, 153, 223, 0.945);
-        }
-        tei-measure[type=currency] {
-            color: rgba(21, 219, 190, 0.945);
-        }
-        
-        tei-measure[type= ordinal] {
-            color: rgba(237, 164, 5, 0.945);
-        }
+tei-measure[type=cardinal] {
+    color: rgba(237, 164, 5, 0.945);
+}
+
+tei-measure[type=distance] {
+    color: rgba(82, 153, 223, 0.945);
+}
+
+tei-measure[type=currency] {
+    color: rgba(21, 219, 190, 0.945);
+}
+
+tei-measure[type=ordinal] {
+    color: rgba(237, 164, 5, 0.945);
+}
