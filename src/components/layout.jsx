@@ -79,7 +79,7 @@ export default function PersistentDrawerLeft({children, location}) {
           description
         }
       }
-      allFile(filter: {extension: {eq: "html"}} , sort: {fields: modifiedTime, order: ASC}) {
+      allFile(filter: {extension: {eq: "html"}} , sort: {fields: name, order: ASC}) {
         nodes {
           name
         }
