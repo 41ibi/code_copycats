@@ -334,7 +334,7 @@ tei-name[type=placeGeog] {
 }
 
 .aboutes {
-    flex: 35%;
+    flex: 40%;
     text-align: left;
     padding: 2%;
     font-size: medium;
@@ -346,7 +346,7 @@ tei-name[type=placeGeog] {
 .abouten {
     float: left;
     width: 40%;
-    flex: 35%;
+    flex: 40%;
     text-align: right;
     padding: 2%;
     font-size: medium;
