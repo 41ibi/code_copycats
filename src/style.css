@@ -5,6 +5,10 @@ h1 {
     font-size: larger;
 }
 
+h3 {
+    align-self: center;
+}
+
 .photo-rounded-circle {
     height: 170px;
     /* size */
@@ -335,7 +339,7 @@ tei-name[type=placeGeog] {
 
 .aboutes {
     flex: 45%;
-    text-align: left;
+    text-align: center;
     padding: 2%;
     font-size: medium;
     background-color: rgb(227, 227, 227);
@@ -344,7 +348,7 @@ tei-name[type=placeGeog] {
 .abouten {
     float: left;
     flex: 45%;
-    text-align: right;
+    text-align: center;
     padding: 2%;
     font-size: medium;
     background-color: rgb(227, 227, 227);
