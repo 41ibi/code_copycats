@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkdigital_publishing_with_minimal_computing_project=self.webpackChunkdigital_publishing_with_minimal_computing_project||[]).push([[448],{1273:function(i,t,n){n.r(t),n.d(t,{default:function(){return u}});n(7294),n(1082),n(5719),n(7676);function u(i){i.data,i.pageContext;return null}}}]);
-//# sourceMappingURL=component---src-components-edition-jsx-e6106108e032bc79fb34.js.map
