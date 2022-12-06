@@ -96,8 +96,6 @@ export default function PersistentDrawerLeft({children, location}) {
     setOpen(false);
   };
 
-  const pages = data.allFile.nodes.filter((item) => item.name !== 'home')
-  pages.unshift({name: 'home'})
 
   return (
     <StyledEngineProvider injectFirst>
