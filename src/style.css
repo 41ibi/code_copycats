@@ -334,19 +334,16 @@ tei-name[type=placeGeog] {
 }
 
 .aboutes {
-    flex: 40%;
+    flex: 45%;
     text-align: left;
     padding: 2%;
     font-size: medium;
     background-color: rgb(227, 227, 227);
-    float: right;
-    width: 40%
 }
 
 .abouten {
     float: left;
-    width: 40%;
-    flex: 40%;
+    flex: 45%;
     text-align: right;
     padding: 2%;
     font-size: medium;
