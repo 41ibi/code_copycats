@@ -21,6 +21,11 @@ export default function Edition({ data, pageContext }) {
         {
         data.allCetei.nodes.map((n, i) => (
           <ListItem>
+            <ListItemAvatar>
+              <Avatar>
+                TEI
+              </Avatar>
+            </ListItemAvatar>
             <ListItemText sx={{paddingTop: '10px'}} primary={<Link to={`/${n.parent.name}`} key={`l${i}`} >
                 {n.parent.name}
               </Link>}>
