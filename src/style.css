@@ -216,11 +216,12 @@ footer p {
     padding: 30px, 0px, 0px, 0px;
 }
 
-body footer {
+
+/*body footer {
     position: absolute !important;
     bottom: 0! important;
     width: 100% !important;
-}
+}*/
 
 .card-container {
     display: flex;
