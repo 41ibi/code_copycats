@@ -12,30 +12,10 @@ import theme from "../theme"
 import "../CETEIcean.css"
 
 export default function Edition({ data, pageContext }) {
-  return (null
-    /*<Layout location="edition">
+  return (
+    <Layout location="edition">
       <div dangerouslySetInnerHTML={{__html: pageContext.rawContent}}/>
-      <List sx={{width: '100%',
-                maxWidth: 360,
-                backgroundColor: theme.palette.background.paper}} dense>
-        {
-        data.allCetei.nodes.map((n, i) => (
-          <ListItem>
-            <ListItemAvatar>
-              <Avatar>
-                TEI
-              </Avatar>
-            </ListItemAvatar>
-            <ListItemText sx={{paddingTop: '10px'}} primary={<Link to={`/${n.parent.name}`} key={`l${i}`} >
-                {n.parent.name}
-              </Link>}>
-              
-            </ListItemText>
-          </ListItem>
-        ))
-      }
-      </List>
-    </Layout>*/
+    </Layout>
   )
 }
 
