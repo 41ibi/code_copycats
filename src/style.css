@@ -330,9 +330,9 @@ tei-name[type=placeGeog] {
     text-align: left;
     padding: 2%;
     font-size: medium;
-    background-color: rgb(227, 227, 227); float: center; width:40%}
+    background-color: rgb(227, 227, 227); float: right; width:40%}
 
-.abouten{float: center; width:40%; flex: 35%; text-align: right; padding: 2%; font-size: medium; background-color: rgb(227, 227, 227);}
+.abouten{float: left; width:40%; flex: 35%; text-align: right; padding: 2%; font-size: medium; background-color: rgb(227, 227, 227);}
 
         tei-measure[type= cardinal] {
             color: rgba(237, 164, 5, 0.945);
