@@ -62,12 +62,20 @@ tei-choice {
     font-style: oblique;
 }
 
+.corr {
+    font-style: oblique;
+}
+
 tei-choice:hover tei-orig {
     display: inline
 }
 
 tei-choice tei-orig {
     display: none;
+    color: red;
+}
+
+.orig {
     color: red;
 }
 
