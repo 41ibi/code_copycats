@@ -373,6 +373,11 @@ tei-name[type=placeGeog] {
     align-self: center;
 }
 
+maptitle {
+    text-align: center;
+    align-content: center;
+}
+
 tei-measure[type=cardinal] {
     color: rgba(6, 6, 6, 0.945);
 }
