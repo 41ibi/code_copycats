@@ -354,6 +354,7 @@ tei-rs[type=etnias] {
 
 .voclist {
     list-style: none;
+    padding: 0;
 }
 
 .column1 {
