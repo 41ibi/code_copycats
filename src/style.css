@@ -84,6 +84,18 @@ tei-orig::after {
     text-align: center;
 }
 
+aboutus {
+    display: flex;
+}
+
+abouttext {
+    flex: 80%;
+}
+
+aboutpic {
+    flex: 20%;
+}
+
 .bio,
 .edition {
     display: flex;
