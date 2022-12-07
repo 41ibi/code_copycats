@@ -369,7 +369,7 @@ tei-name[type=placeGeog] {
 }
 
 tei-measure[type=cardinal] {
-    color: rgba(237, 164, 5, 0.945);
+    color: rgba(6, 6, 6, 0.945);
 }
 
 tei-measure[type=distance] {
@@ -381,5 +381,5 @@ tei-measure[type=currency] {
 }
 
 tei-measure[type=ordinal] {
-    color: rgba(237, 164, 5, 0.945);
+    color: rgba(16, 16, 16, 0.945);
 }
