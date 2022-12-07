@@ -89,11 +89,12 @@ aboutus {
 }
 
 abouttext {
-    flex: 80%;
+    flex: 90%;
 }
 
 aboutpic {
-    flex: 20%;
+    flex: 10%;
+    box-sizing: border-box;
 }
 
 .bio,
