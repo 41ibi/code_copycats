@@ -141,8 +141,8 @@ aboutpic {
 }
 
 .edition-es,
-.edition-en {
-    max-height: max-content;
+.edition-en>p {
+    background-color: rgb(227, 227, 227);
 }
 
 
