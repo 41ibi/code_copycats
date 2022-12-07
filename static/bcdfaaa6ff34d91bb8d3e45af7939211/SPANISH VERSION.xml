@@ -77,9 +77,81 @@
          <p>Pero las clases todas, en general, no tienen <choice><orig>mas</orig><reg>más</reg></choice> arma que<lb/> espada y puñal, y como soldados son de muy escaso méri<lb/>to, pues el aire del país y la abundancia de que gozan, los<lb/> hace holgazanes y cobardes.<lb/></p>
          </div>
          <div>
-         <lb/><note xml:id="p23_n1">1. <name type="place"><choice><orig>Lujan</orig><reg>Luján</reg></choice></name>.</note>
-            <lb/><note xml:id="p23_n2">2. <name type="place">Arrecifes</name>.</note>
+         <lb/><note>1. <name type="place"><choice><orig>Lujan</orig><reg>Luján</reg></choice></name>.</note>
+            <lb/><note>2. <name type="place">Arrecifes</name>.</note>
          </div>
+
+         <div type="index">
+    <list rendition="Lista_Ciudades_y_Lugares">
+
+        <head>Ciudades y lugares por orden de aparición</head>
+        <item n="1">
+            <name type="place">Buenos Aires</name>
+        </item>
+        <item n="2">
+            <name type="place">Córdoba</name>
+        </item>
+        <item n="3">
+            <name type="place">Santa Fe</name>
+        </item>
+        <item n="4">
+            <name type="place">Paraguay</name>
+        </item>
+        <item n="5">
+            <name type="place">Perú</name>
+        </item>
+        <item n="6">
+            <name type="place">Chile</name>
+        </item>
+        <item n="7">
+            <name type="place">Recife</name>
+        </item>
+        <item n="8">
+            <name type="place">Santiago de Estero</name>
+        </item>
+        <item n="9">
+            <name type="place">Salta</name>
+        </item>
+        <item n="10">
+            <name type="place">Xuxui</name>
+        </item>
+        <item n="11">
+            <name type="place">América</name>
+        </item>
+    </list>
+    <list rendition="Lista_accidentes">
+
+        <head>Accidentes geográficos por orden de aparición</head>
+        <item n="1">
+            <name type="placeGeog">Rio de la Plata</name>
+        </item>
+        <item n="2">
+            <name type="placeGeog">Rio de Lucan</name>
+        </item>
+        <item n="3">
+            <name type="placeGeog">Rio Recife</name>
+        </item>
+        <item n="4">
+            <name type="placeGeog">Rio Saladillo</name>
+        </item>
+    </list>
+    <list rendition="Lista_Pueblos_y_Etnias">
+
+        <head>Pueblos y etnias por orden de aparición</head>
+        <item n="1">
+            <rs type="etnias">Españoles</rs>
+        </item>
+        <item n="2">
+            <rs type="etnias">Pampistas</rs>
+        </item>
+        <item n="3">
+            <rs type="etnias">Serranos</rs>
+        </item>
+        <item n="4">
+            <rs type="etnias">Portugueses</rs>
+        </item>
+    </list>
+</div>
      </body>
  </text>
 </TEI>
