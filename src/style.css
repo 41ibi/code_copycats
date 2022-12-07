@@ -91,11 +91,11 @@ aboutus {
 }
 
 abouttext {
-    flex: 90%;
+    flex: 90% 1;
 }
 
 aboutpic {
-    flex: 10%;
+    flex: 10% 1;
     box-sizing: border-box;
 }
 
