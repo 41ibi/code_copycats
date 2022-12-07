@@ -112,6 +112,9 @@ aboutpic {
     display: flex;
     align-items: stretch;
     justify-content: space-around;
+}
+
+.bio {
     max-height: 90vh;
     min-height: 65vh;
 }
