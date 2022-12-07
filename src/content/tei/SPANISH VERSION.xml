@@ -9,7 +9,7 @@
         </titleStmt>
         <publicationStmt>
            <publisher>Copycats University Press</publisher>
-           <date>2022</date>
+           <date>6 de diciembre de 2022</date>
         </publicationStmt>
         <sourceDesc>
            <bibl>
@@ -89,7 +89,7 @@
             <name type="place" ref="https://viaf.org/viaf/155960902/">Buenos Aires</name>
         </item>
         <item n="2">
-            <name type="place" ref="http://viaf.org/viaf/146499420">Córdoba</name>
+            <name type="place">Córdoba</name>
         </item>
         <item n="3">
             <name type="place">Santa Fe</name>
