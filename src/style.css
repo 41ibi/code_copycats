@@ -86,6 +86,8 @@ tei-orig::after {
 
 aboutus {
     display: flex;
+    justify-content: space-around;
+    align-items: stretch;
 }
 
 abouttext {
