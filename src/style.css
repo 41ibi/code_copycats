@@ -349,6 +349,10 @@ tei-name[type=etnias] {
     color: lightcoral;
 }
 
+.voclist {
+    list-style: none;
+}
+
 .column1 {
     flex: 35%;
     text-align: justify;
