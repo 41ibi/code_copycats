@@ -328,6 +328,14 @@ tei-name[type=placeGeog] {
     color: blue;
 }
 
+tei-name[type=etnia] {
+    color: lightcoral;
+}
+
+.etnia {
+    color: lightcoral;
+}
+
 .column1 {
     flex: 35%;
     text-align: justify;
