@@ -341,7 +341,7 @@ tei-name[type=placeGeog] {
     color: blue;
 }
 
-tei-name[type=etnias] {
+tei-rs[type=etnias] {
     color: lightcoral;
 }
 
