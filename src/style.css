@@ -357,7 +357,6 @@ tei-name[type=placeGeog] {
     flex: 45%;
     text-align: center;
     padding: 2%;
-    font-size: medium;
     background-color: rgb(227, 227, 227);
 }
 
@@ -366,7 +365,6 @@ tei-name[type=placeGeog] {
     flex: 45%;
     text-align: center;
     padding: 2%;
-    font-size: medium;
     background-color: rgb(227, 227, 227);
 }
 
