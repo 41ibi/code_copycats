@@ -367,6 +367,12 @@ tei-name[type=placeGeog] {
     background-color: rgb(227, 227, 227);
 }
 
+.map {
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+
 tei-measure[type=cardinal] {
     color: rgba(6, 6, 6, 0.945);
 }
