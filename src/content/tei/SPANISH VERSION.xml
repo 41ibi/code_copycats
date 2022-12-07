@@ -30,7 +30,7 @@
      <div>
           <p>
             <lb/>Salí de <name type="place" ref="https://viaf.org/viaf/155960902/">Buenos Aires</name> y tomé el camino de <name type="place" ref="http://viaf.org/viaf/146499420">Córdoba</name>, de<lb/>jando <choice><orig>á</orig><reg>a</reg></choice>
-             <name type="place">Santa Fe</name><choice><orig>á</orig><reg> a</reg></choice><choice><orig> mí</orig><reg> mi</reg></choice> derecha, de cuyo lugar, <choice><orig>hé</orig><reg>he</reg></choice> aquí una <lb/>relación:
+             <name type="place" ref="http://viaf.org/viaf/139544746">Santa Fe</name><choice><orig>á</orig><reg> a</reg></choice><choice><orig> mí</orig><reg> mi</reg></choice> derecha, de cuyo lugar, <choice><orig>hé</orig><reg>he</reg></choice> aquí una <lb/>relación:
          </p>
          <p>
             <lb/>Es una población española dependiente de <name type="place" ref="https://viaf.org/viaf/155960902/">Buenos Aires</name><lb/> siendo el comandante un mero teniente, quien nada hace sin <lb/><choice><orig>órden</orig><reg>orden</reg></choice> del Gobernador de <name type="place" ref="https://viaf.org/viaf/155960902/">Buenos Aires</name>. Es una pequeña <lb/><choice><orig>poblacion</orig><reg>población</reg></choice>, compuesta de <measure type="cardinal"><num>25 casas</num></measure>, sin murallas, fortifica<lb/>ciones, ni <choice><orig>guarnicion</orig><reg>guarnición</reg></choice>, distante de <name type="place">Buenos Aires </name><measure type="distance"><num>80 leguas</num></measure> al <lb/>Norte. Situada sobre el <name type="placeGeog"><choice><orig>Rio</orig><reg>Río</reg></choice> de la Plata</name>, buques grandes <choice><orig>po<lb/>drian</orig><reg>podrían</reg></choice> llegar hasta allí, si no fuese por un gran banco que obs<lb/>truye el paso, un poco <choice><orig>mas</orig><reg>más</reg></choice> arriba de <name type="place" ref="https://viaf.org/viaf/155960902/">Buenos Aires</name>. Sin em<pb n="23"/><lb/>bargo, es un punto muy ventajoso, porque es el único paso <lb/>que hay al <name type="place" ref="http://viaf.org/viaf/139099883">Paraguay</name> desde el <name type="place" ref="http://viaf.org/viaf/159434034">Perú</name>, <name type="place" ref="http://viaf.org/viaf/233665742">Chile</name> y <name type="place" ref="http://viaf.org/viaf/141885296"><choice><orig>Tucuman</orig><reg>Tucumán</reg></choice></name>, y en <lb/>cierto modo es el depósito de los efectos que de allí se <choice><orig>es<lb/>traen</orig><reg>ex<lb/>trae</reg></choice> especialmente de la yerba, de la cual ya he hablado, <lb/>sin la cual no pueden estar en aquellas Provincias.
@@ -92,7 +92,7 @@
             <name type="place" ref="http://viaf.org/viaf/146499420">Córdoba</name>
         </item>
         <item n="3">
-            <name type="place">Santa Fe</name>
+            <name type="place" ref="http://viaf.org/viaf/139544746">Santa Fe</name>
         </item>
         <item n="4">
             <name type="place" ref="http://viaf.org/viaf/139099883">Paraguay</name>
