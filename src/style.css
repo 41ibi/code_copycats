@@ -355,15 +355,14 @@ tei-name[type=placeGeog] {
 
 .aboutes {
     flex: 45%;
-    text-align: center;
+    text-align: justify;
     padding: 2%;
     background-color: rgb(227, 227, 227);
 }
 
 .abouten {
-    float: left;
     flex: 45%;
-    text-align: center;
+    text-align: justify;
     padding: 2%;
     background-color: rgb(227, 227, 227);
 }
