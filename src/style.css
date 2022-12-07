@@ -140,6 +140,11 @@ aboutpic {
     background-color: rgb(227, 227, 227);
 }
 
+.edition-es,
+.edition-en {
+    max-height: max-content;
+}
+
 
 /* CSS */
 
